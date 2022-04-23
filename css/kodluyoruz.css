@@ -1,0 +1,31 @@
+.arkaplan {
+    background-color: pink;  
+}
+h1, h2, h3 {
+    color: blueviolet;
+    font-size: large;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+}
+p {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  
+}
+h1 {
+    border: 2px solid rgb(18, 14, 14);
+    padding: 30px;
+    text-align: center;
+}
+
+.abc {
+    align-content: center; 
+    list-style-position: inside;
+    text-align: center;
+}
+article {
+
+    text-align: center;
+}
+.boşluk {
+    margin-left: 30%; margin-right: 30%;
+}
