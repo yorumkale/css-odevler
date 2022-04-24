@@ -1,4 +1,57 @@
-.arkaplan {
+/* .box {
+    width: 300px;
+    height: 300px; */
+    /* padding: 10px;  */
+    /* kutu içindeki ferahlık */
+    /* margin: 10px; */
+    /* diğer kutularla her yönden aralarındaki boşluk */
+    /* margin-right: 20px;
+    float: left; */ 
+    /* float : yan yana getirmek */
+body {
+        margin: 0;
+        padding: 0;
+}
+
+.container {
+width: 1000px;
+margin: 10px 100px ;
+}
+.card {
+    width: 20%;
+    float: left;
+    padding: 5%;
+    margin-right: 3%;
+    border-radius: 10px;
+}
+.left-bar {
+    width: 160px;
+    float: left;
+    margin-right: 10px;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.content {
+    width: 800px;
+    float: left;
+}
+
+.clear {
+    clear: both;
+}
+.bg-pink {
+    background-color: pink;
+ 
+}
+.bg-green {
+    background-color: greenyellow;
+}
+.bg-red {
+    background-color: rgb(230, 152, 152);
+}
+
+/* .arkaplan {
     background-color: pink;  
 }
 h1, h2, h3 {
@@ -17,15 +70,27 @@ h1 {
     text-align: center;
 }
 
+ul > li:first-child {
+background-color: pink;
+}
+
+ul > li:last-child {
+    background-color: aqua;
+}
 .abc {
     align-content: center; 
     list-style-position: inside;
     text-align: center;
 }
+
+a:active {
+    color: yellowgreen;
+}
+
 article {
 
     text-align: center;
 }
 .boşluk {
     margin-left: 30%; margin-right: 30%;
-}
+} */

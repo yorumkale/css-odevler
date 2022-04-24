@@ -1,0 +1,47 @@
+
+
+.ortala {
+    margin: 0 30% ;
+}
+.clear {
+    clear: both;
+}
+.card1 {
+    background-color: rgb(68, 180, 150);
+    float: left;
+    padding: 15px;
+    height: 100px;
+    width: 390px;
+    margin: 3px;
+    margin-left: 100px;
+    ;
+}
+ .card2 {
+     background-color: rgb(61, 152, 152);
+     float: left;
+     padding: 15px;
+     height: 100px;
+     width: 390px;
+     margin: 3px;
+ }
+  
+h1 {
+    font-size: 15px;
+    font-family:'Times New Roman', Times, sans-serif;
+    font-weight: normal;
+ }
+  .card3 {
+      background-color: rgb(31, 158, 158);
+      float: left;
+      height: 100px;
+      width: 390px;
+      padding: 15px;
+      margin: 3px;
+  }
+  .bg-krem {
+      background-color: rgb(228, 226, 226);
+    padding-left: 400px;
+    margin-left: 100px;
+    margin-right: 147px;  
+   
+  }
